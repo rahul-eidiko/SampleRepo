@@ -5,6 +5,8 @@ public class DisplayString{
   System.out.println("*** Display String ****");
 
   System.out.println("*** Adding this line after commit");
+
+  System.out.println("*** Adding this line to test git commit -a command");
  }
 
 }
