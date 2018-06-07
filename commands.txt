@@ -1,0 +1,8 @@
+init
+log
+commit
+add
+.gitignore
+status
+show
+amend
